@@ -7,7 +7,7 @@ npm install readme-factory -g
 ```
 
 # usage
-From your npm modules root, do:
+From your module's root, do:
 ```bash
 readme-factory > README.md
 ```
