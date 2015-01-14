@@ -1,0 +1,26 @@
+{
+  "name": "readme-factory",
+  "version": "0.0.0",
+  "description": "quickly template out readme files for module documentation",
+  "main": "cmd.js",
+  "bin": {
+      "readme-factory": "./cmd.js"
+  },
+  "scripts": {
+    "test": "tap test"
+  },
+  "keywords": [
+    "documentation",
+    "readme",
+    "modules",
+    "organization"
+  ],
+  "author": "Alexander Vados <alex.vados@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "string-template": "^0.2.0"
+  },
+  "engines": {
+      "node": ">=0.10"
+  }
+}
