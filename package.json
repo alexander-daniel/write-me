@@ -1,6 +1,6 @@
 {
   "name": "readme-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "quickly template out readme files for module documentation",
   "main": "cmd.js",
   "bin": {
