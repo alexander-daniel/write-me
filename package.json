@@ -1,10 +1,10 @@
 {
   "name": "readme-factory",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "quickly template out readme files for module documentation",
   "main": "cmd.js",
   "bin": {
-      "readme-factory": "./cmd.js"
+    "readme-factory": "./cmd.js"
   },
   "scripts": {
     "test": "tap test"
@@ -21,6 +21,6 @@
     "string-template": "^0.2.0"
   },
   "engines": {
-      "node": ">=0.10"
+    "node": ">=0.10"
   }
 }
