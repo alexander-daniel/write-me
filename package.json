@@ -24,6 +24,7 @@
     "node": ">=0.10"
   },
   "devDependencies": {
+    "tap": "^0.4.13",
     "tape": "^3.0.3"
   }
 }
