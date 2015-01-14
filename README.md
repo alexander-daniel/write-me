@@ -12,10 +12,10 @@ From your npm modules root, do:
 readme-factory > README.md
 ```
 
-README.md will be auto populated based on your package.json.
+`README.md` will be auto populated based on your package.json.
 It's really just to speed the tedious process up. Nothing magical!
 
-Right now, it passes over:
+Right now, it only handles:
 - Package name
 - Package license
 - Package description
