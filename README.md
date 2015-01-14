@@ -1,4 +1,4 @@
-# readme-factory
+# readme-factory   [![Build Status](https://travis-ci.org/alexander-daniel/readme-factory.svg?branch=master)](https://travis-ci.org/alexander-daniel/readme-factory)
 quickly template out README files for module documentation
 
 # install
