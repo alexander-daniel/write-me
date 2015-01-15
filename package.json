@@ -1,10 +1,10 @@
 {
-  "name": "readme-factory",
+  "name": "write-me",
   "version": "1.0.2",
   "description": "quickly template out readme files for module documentation",
   "main": "cmd.js",
   "bin": {
-    "readme-factory": "./cmd.js"
+    "write-me": "./cmd.js"
   },
   "scripts": {
     "test": "tap test"

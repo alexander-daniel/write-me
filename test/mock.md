@@ -1,4 +1,4 @@
-# readme-factory
+# write-me
 quickly template out readme files for module documentation
 
 # example
@@ -8,7 +8,7 @@ quickly template out readme files for module documentation
 
 # methods
 ```javascript
-var Constructor = require('readme-factory');
+var Constructor = require('write-me');
 ```
 
 ## var instance = new Constructor()
@@ -19,7 +19,7 @@ describe methods
 
 # install
 ```bash
-npm install readme-factory
+npm install write-me
 ```
 
 # test
