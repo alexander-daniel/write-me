@@ -1,6 +1,6 @@
 {
   "name": "write-me",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "quickly template out readme files for module documentation",
   "main": "cmd.js",
   "bin": {
